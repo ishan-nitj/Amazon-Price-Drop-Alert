@@ -6,7 +6,6 @@ import time
 from Tkinter import *
 import tkMessageBox
 
-pynotify.init('my apps')
 idnos=[]
 
 #data for authorization 
