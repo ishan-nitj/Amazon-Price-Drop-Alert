@@ -8,9 +8,12 @@ import tkMessageBox
 
 idnos=[]
 
-#data for authorization 
-my_no="##############"#your phone no
-amazon = AmazonAPI("####Your account_sid ###", "#### Your auth_token #####","##### Your associate tag#####")
+#data for authorization for sending message 
+account_sid = "###########"
+auth_token = "###########"
+my_no="###########"#your phone no
+
+amazon = AmazonAPI("AMAZON_ACCESS_KEY", "AMAZON_SECRET_KEY", "AMAZON_ASSOC_TAG")
 
 #sends the message=content to your phone
 def sendmsg(content):
