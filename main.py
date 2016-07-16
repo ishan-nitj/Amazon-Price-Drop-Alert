@@ -25,7 +25,7 @@ def sendmsg(content):
          sys.exit()
             
 #function on clicking submit button
-def func(event):
+def click(event):
     while len(idnos)!=0:
         idnos.pop()
     if len(entry[1].get())==0 and len(entry[2].get())==0 and len(entry[3].get())==0 and len(entry[4].get())==0 and len(entry[5].get())==0:
