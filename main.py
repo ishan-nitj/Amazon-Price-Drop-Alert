@@ -122,7 +122,7 @@ entry[5].grid(row=17,column=20)
 
 button=Button(root,text="Submit")
 button.grid(row=19,column=20)
-button.bind("<Button-1>",func)
+button.bind("<Button-1>",click)
 
 root.mainloop()#window displays constantly       
 
