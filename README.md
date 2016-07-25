@@ -23,4 +23,5 @@ Run main.py
 ![](https://github.com/ishan-nitj/Amazon-Price-Drop-Alert/blob/master/images/1.png)
 ![](https://github.com/ishan-nitj/Amazon-Price-Drop-Alert/blob/master/images/2.png)
 ![](https://github.com/ishan-nitj/Amazon-Price-Drop-Alert/blob/master/images/3.png)
+![](https://github.com/ishan-nitj/Amazon-Price-Drop-Alert/blob/master/images/4.png)
 
